@@ -38,3 +38,6 @@ Scarla	F	2016	108	2
 Sophia	F	2017	109	0
 Thomas	M	2015	212	0
 Vicky	F	2018	112	9
+
+
+수정됨.
